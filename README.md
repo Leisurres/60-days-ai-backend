@@ -24,4 +24,7 @@ A 60-day learning journey focused on Java backend engineering, data structures, 
 - [ ] Day 40 - AI Application
 - [ ] Day 50 - Project Optimization
 - [ ] Day 60 - Final Review
-  
+
+## tips
+- day04开始参考黑马,src>com.itheima>xxxdemo>具体的类
+                                  >xxxdemo>具体的类
